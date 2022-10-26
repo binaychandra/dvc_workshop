@@ -1,6 +1,6 @@
 [core]
     analytics = false
-    remote = remote_storage
+    remote = myremote
     autostage = true
-['remote "remote_storage"']
-    url = gdrive://1--EZJVcct77vXaKzTN04nou8XLx7zWeC
+['remote "myremote"']
+    url = C:\Users\PD817AE\OneDrive - EY\Desktop\DataSc\temp\dvc_lclremote
